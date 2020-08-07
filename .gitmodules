@@ -10,3 +10,6 @@
 [submodule "tsapi"]
 	path = tsapi
 	url = https://github.com/espetro/an-easy-imdb-rest-api
+[submodule "scapi"]
+	path = scapi
+	url = https://github.com/espetro/a-functional-imdb-rest-api
