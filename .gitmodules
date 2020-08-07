@@ -1,3 +1,6 @@
 [submodule "goapi"]
 	path = goapi
 	url = https://github.com/espetro/a-fast-imdb-rest-api
+[submodule "pyapi"]
+	path = pyapi
+	url = https://github.com/espetro/an-easier-imdb-rest-api
