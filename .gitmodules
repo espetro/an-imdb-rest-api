@@ -7,3 +7,6 @@
 [submodule "rustapi"]
 	path = rustapi
 	url = https://github.com/espetro/a-faster-imdb-rest-api
+[submodule "tsapi"]
+	path = tsapi
+	url = https://github.com/espetro/an-easy-imdb-rest-api
