@@ -4,3 +4,6 @@
 [submodule "pyapi"]
 	path = pyapi
 	url = https://github.com/espetro/an-easier-imdb-rest-api
+[submodule "rustapi"]
+	path = rustapi
+	url = https://github.com/espetro/a-faster-imdb-rest-api
