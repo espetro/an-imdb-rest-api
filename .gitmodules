@@ -1,0 +1,3 @@
+[submodule "goapi"]
+	path = goapi
+	url = https://github.com/espetro/a-fast-imdb-rest-api
